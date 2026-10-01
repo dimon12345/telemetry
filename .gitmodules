@@ -1,0 +1,9 @@
+[submodule "rest_server"]
+	path = rest_server
+	url = git@github.com:dimon12345/telemetry_rest_server.git
+[submodule "mqtt_subscriber"]
+	path = mqtt_subscriber
+	url = git@github.com:dimon12345/telemetry_mqtt_subscriber.git
+[submodule "android"]
+	path = android
+	url = git@github.com:dimon12345/telemetry_android.git
