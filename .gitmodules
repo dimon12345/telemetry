@@ -7,3 +7,6 @@
 [submodule "android"]
 	path = android
 	url = git@github.com:dimon12345/telemetry_android.git
+[submodule "pygui"]
+	path = pygui
+	url = https://github.com/dimon12345/telemetry_pygui
