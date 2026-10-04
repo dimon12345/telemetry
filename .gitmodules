@@ -1,12 +1,12 @@
 [submodule "rest_server"]
 	path = rest_server
-	url = git@github.com:dimon12345/telemetry_rest_server.git
+	url = https://github.com/telemetry_rest_server.git
 [submodule "mqtt_subscriber"]
 	path = mqtt_subscriber
-	url = git@github.com:dimon12345/telemetry_mqtt_subscriber.git
+	url = https://github.com/dimon12345/telemetry_mqtt_subscriber.git
 [submodule "android"]
 	path = android
-	url = git@github.com:dimon12345/telemetry_android.git
+	url = https://github.com/dimon12345/telemetry_android.git
 [submodule "pygui"]
 	path = pygui
-	url = git@github.com:dimon12345/telemetry_pygui
+	url = https://github.com/dimon12345/telemetry_pygui.gui
