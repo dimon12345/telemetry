@@ -10,3 +10,6 @@
 [submodule "pygui"]
 	path = pygui
 	url = https://github.com/dimon12345/telemetry_pygui
+[submodule "media"]
+	path = media
+	url = https://github.com/dimon12345/telemetry_media
