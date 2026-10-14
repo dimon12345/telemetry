@@ -3,5 +3,6 @@ set -ex
 
 cd "$(dirname "$(readlink -f "$0")")"
 
-mqtt_subscriber/deploy.sh
-rest_server/deploy.sh
+(cd mqtt_subscriber && scripts/docker_test.sh)
+(cd mqtt_subscriber && scripts/docker_up.sh)
+# rest_server and android broken yet. Use tag v0.1 for Android
