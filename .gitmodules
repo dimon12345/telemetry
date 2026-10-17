@@ -1,15 +1,15 @@
 [submodule "rest_server"]
-	path = rest_server
-	url = https://github.com/dimon12345/telemetry_rest_server
+    path = rest_server
+    url = https://github.com/dimon12345/telemetry_rest_server
 [submodule "mqtt_subscriber"]
-	path = mqtt_subscriber
-	url = https://github.com/dimon12345/telemetry_mqtt_subscriber
+    path = mqtt_subscriber
+    url = https://github.com/dimon12345/telemetry_mqtt_subscriber
 [submodule "android"]
-	path = android
-	url = https://github.com/dimon12345/telemetry_android
+    path = android
+    url = https://github.com/dimon12345/telemetry_android
 [submodule "pygui"]
-	path = pygui
-	url = https://github.com/dimon12345/telemetry_pygui
+    path = pygui
+    url = https://github.com/dimon12345/telemetry_pygui
 [submodule "media"]
-	path = media
-	url = https://github.com/dimon12345/telemetry_media
+    path = media
+    url = https://github.com/dimon12345/telemetry_media
